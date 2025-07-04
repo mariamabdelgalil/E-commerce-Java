@@ -60,3 +60,7 @@ checkout(customer, cart);
 ### Insufficient balance case
 ![Console Output](cases/balance.png)
 
+
+### IEmpty cart case
+![Console Output](cases/emptyCart.png)
+
