@@ -55,20 +55,5 @@ checkout(customer, cart);
 
 ###  Console Output
 
-**Shipment notice**  
-Cheese 0.4kg  
-Biscuits 0.7kg  
-TV 5.0kg  
-Total package weight 6.10kg  
-
-**Checkout receipt**  
-2x Cheese 200.00  
-1x Biscuits 150.00  
-1x TV 300.00  
-1x Scratch Card 50.00  
-
-Subtotal 700.00  
-Shipping 61.00  
-Amount 761.00  
-Customer balance after payment: 49239.00  
+![Console Output](cases/normal.png)
 
