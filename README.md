@@ -61,6 +61,12 @@ checkout(customer, cart);
 ![Console Output](cases/balance.png)
 
 
-### IEmpty cart case
+### Empty cart case
 ![Console Output](cases/emptyCart.png)
+
+### Expired case
+![Console Output](cases/expired.png)
+
+### Not enough stock case
+![Console Output](cases/stock.png)
 
