@@ -57,3 +57,6 @@ checkout(customer, cart);
 
 ![Console Output](cases/normal.png)
 
+### Insufficient balance case
+![Console Output](cases/balance.png)
+
